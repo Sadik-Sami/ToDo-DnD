@@ -8,9 +8,7 @@ backend/
 ├── .env                 # Environment variables
 ├── index.js            # Main application file
 └── package.json        # Project dependencies
-
-```plaintext
-
+```
 ## Features
 
 ### Database Models
